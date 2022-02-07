@@ -6,5 +6,7 @@ I'm a professor in [physics](http://pa.msu.edu) and [computational science](http
 
 * [dannycab.github.io](http://dannycaballero.info/)
 * [Twitter](https://twitter.com/physicistdanny)
+* [Physics Education Research Lab](https://perl.natsci.msu.edu/)
 * [Learning Machines Lab](https://github.com/learningmachineslab)
+* [Computational Education Research Lab](https://msu-cerl.github.io/)
 * [PICUP](http://gopicup.org)
