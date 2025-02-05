@@ -4,7 +4,6 @@ I'm a professor in [physics](https://pa.msu.edu) and [computational science](htt
 
 ## Find me online
 
-* [dannycab.github.io](http://dannycaballero.info/)
 * [dannycab.github.io](https://dannycaballero.info/)
 * [danny.hellmo.space](https://danny.hellmo.space/)
 * [Bluesky](https://bsky.app/profile/did:plc:qowudy4evctrn74ifm5tnk76)
