@@ -15,3 +15,10 @@ I'm a professor in [physics](https://pa.msu.edu) and [computational science](htt
 * [Computing Education Research Lab](https://msu-cerl.github.io/)
 * [Center for Computing in Science Education](https://www.mn.uio.no/ccse/english/)
 * [Patnership for Integrating Computing in Undergradaute Physics](http://gopicup.org/)
+
+## What I'm working on
+
+* [Teaching PHY 321](https://dannycaballero.info/phy321msu/intro.html)
+* [Developing RaiseMyHand](https://raisemyhand.oerforge.org/)
+* [Writing OER Physics Content](https://openphysicsed.org/)
+* [Creating OER Tools](https://oer-forge.github.io/)
