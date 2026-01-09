@@ -14,4 +14,4 @@ I'm a professor in [physics](https://pa.msu.edu) and [computational science](htt
 * [Physics Education Research Lab](https://perl.natsci.msu.edu/)
 * [Computing Education Research Lab](https://msu-cerl.github.io/)
 * [Center for Computing in Science Education](https://www.mn.uio.no/ccse/english/)
-* [PICUP](http://gopicup.org/)
+* [Patnership for Integrating Computing in Undergradaute Physics](http://gopicup.org/)
